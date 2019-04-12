@@ -1,26 +1,9 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
-  <action id="ActivateMavenProjectsToolWindow">
-    <keyboard-shortcut first-keystroke="alt m" />
-  </action>
-  <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="alt a" />
-  </action>
-  <action id="EditorCloneCaretBelow">
-    <keyboard-shortcut first-keystroke="alt b" />
-  </action>
-  <action id="Git.Branches">
-    <keyboard-shortcut first-keystroke="shift meta b" />
-  </action>
-  <action id="Git.Fetch">
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
-  <action id="Git.Pull">
-    <keyboard-shortcut first-keystroke="alt p" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="alt v" />
-  </action>
-  <action id="Vcs.Show.Local.Changes">
-    <keyboard-shortcut first-keystroke="shift ctrl o" />
+    <keyboard-shortcut first-keystroke="shift alt v" />
   </action>
 </keymap>
