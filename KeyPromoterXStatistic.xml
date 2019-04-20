@@ -310,7 +310,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Bookstore JavaEE'">
@@ -342,7 +342,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Start'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WildFly Remote: BookEndpointTest'">
@@ -415,6 +415,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Main'</Description>
           <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Start'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Start'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'order_fulfilment [bootRun]'">
