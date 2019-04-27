@@ -38,7 +38,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌥⌘←'</ShortCut>
           <Description>Back</Description>
-          <Count>28</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Detach Gradle project">
@@ -239,6 +239,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ParserTest'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SampleInputTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'SampleInputTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TurnstileFsmSwitchTest'">
