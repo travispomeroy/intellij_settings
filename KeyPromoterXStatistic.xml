@@ -38,7 +38,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌥⌘←'</ShortCut>
           <Description>Back</Description>
-          <Count>33</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -262,7 +262,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'SampleInputTest.testList'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SampleInputTest.testSampleInput'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'SampleInputTest.testSampleInput'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TurnstileFsmSwitchTest'">
@@ -334,7 +342,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>18</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -465,6 +473,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SampleInputTest.testSampleInput'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SampleInputTest.testSampleInput'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Start'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -518,7 +534,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>55</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'Bookstore JavaEE' application">
