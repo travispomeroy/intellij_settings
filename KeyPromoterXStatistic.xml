@@ -305,6 +305,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'kafka-twitter [TwitterProducer.main()]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'kafka-twitter [TwitterProducer.main()]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'order_fulfilment [bootRun]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -495,6 +503,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Start'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'kafka-twitter [TwitterProducer.main()]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'kafka-twitter [TwitterProducer.main()]'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'order_fulfilment [bootRun]'">
